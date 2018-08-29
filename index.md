@@ -14,5 +14,15 @@ grow the PHP community in Brisbane.
 * We track our talk schedule and requests [on GitHub](https://github.com/BrisPHP/meetups)
 * Join us in the [Brisbane Slack workspace](http://brisbane.herokuapp.com/) in the `#brisphp` channel
 * Follow us on [Twitter](https://twitter.com/brisphp1).
-* We're currently taking a survey of our members to help us grow the community. 
-  [Click here to participate](https://nathandench.typeform.com/to/mjHX0Y).
+
+## Member survey
+
+We're recently ran a survey of our members to help us grow the community. Here are some of the highlights:
+
+![PHP experience]({{ "assets/images/survey-php-experience.png" }})
+![Job title]({{ "assets/images/survey-job-title.png" }})
+![Frameworks]({{ "assets/images/survey-framework.png" }})
+![Types of talks]({{ "assets/images/survey-talk-types.png" }})
+![NPS score]({{ "assets/images/survey-nps.png" }})
+
+You can view the [full results here](https://nathandench.typeform.com/report/mjHX0Y/NHlwhFjbU0EeT500).
