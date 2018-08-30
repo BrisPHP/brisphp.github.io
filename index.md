@@ -15,6 +15,15 @@ grow the PHP community in Brisbane.
 * Join us in the [Brisbane Slack workspace](http://brisbane.herokuapp.com/) in the `#brisphp` channel
 * Follow us on [Twitter](https://twitter.com/brisphp1).
 
+## PHP elePHPant
+
+The elePHPant PHP mascott is [going to be available](https://www.phpclasses.org/blog/post/712-how-you-can-buy-the-PHP-elephant-for-sale.html)!
+
+![elePHPant]({{ "assets/images/php-elephpant.jpg" }})
+
+You can register your interest to purchase an elePHPant [here](https://docs.google.com/forms/d/e/1FAIpQLScIBxxjID445T84vfp_MVd4dbKFRDKR_B-MP4ll1Bjl-U7TXQ/viewform).
+We're going to get a custom designed one too! Message us on Slack or Twitter to let us know if you want one.
+
 ## Member survey
 
 We're recently ran a survey of our members to help us grow the community. Here are some of the highlights:
