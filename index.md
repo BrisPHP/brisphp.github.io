@@ -15,23 +15,24 @@ grow the PHP community in Brisbane.
 * Join us in the [Brisbane Slack workspace](http://brisbane.herokuapp.com/) in the `#brisphp` channel
 * Follow us on [Twitter](https://twitter.com/brisphp1).
 
-## PHP elePHPant
+## Past meetups
+   
+*2019*:
 
-The elePHPant PHP mascott is [going to be available](https://www.phpclasses.org/blog/post/712-how-you-can-buy-the-PHP-elephant-for-sale.html)!
+- Q3: [Videos & links](/2019/q3)
+- Q2: [Meetup](https://www.meetup.com/BrisPHP/events/260160444/)
+- Q1: [Meetup](https://www.meetup.com/BrisPHP/events/257912534/)
 
-![elePHPant]({{ "assets/images/php-elephpant.jpg" }})
+*2018*:
 
-You can register your interest to purchase an elePHPant [here](https://docs.google.com/forms/d/e/1FAIpQLScIBxxjID445T84vfp_MVd4dbKFRDKR_B-MP4ll1Bjl-U7TXQ/viewform).
-We're going to get a custom designed one too! Message us on Slack or Twitter to let us know if you want one.
+- Q3: [Meetup](https://www.meetup.com/BrisPHP/events/253361238/)
+- Q2: [Meetup](https://www.meetup.com/BrisPHP/events/250153519/)
+- Q1: [Meetup](https://www.meetup.com/BrisPHP/events/247341104/) 
+    
+    
+### Annual survey:
 
-## Member survey
+We aim to run a survey once per year to help us understand who we are serving as a community and how we can improve the 
+Meetup.
 
-We're recently ran a survey of our members to help us grow the community. Here are some of the highlights:
-
-![PHP experience]({{ "assets/images/survey-php-experience.png" }})
-![Job title]({{ "assets/images/survey-job-title.png" }})
-![Frameworks]({{ "assets/images/survey-framework.png" }})
-![Types of talks]({{ "assets/images/survey-talk-types.png" }})
-![NPS score]({{ "assets/images/survey-nps.png" }})
-
-You can view the [full results here](https://nathandench.typeform.com/report/mjHX0Y/NHlwhFjbU0EeT500).
+[Please complete the survey!](https://tom492.typeform.com/to/iOH4az)
