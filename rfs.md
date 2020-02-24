@@ -4,7 +4,7 @@ title: Request for speakers
 ---
 
 BrisPHP enthusiastically welcomes talk proposals from the community. We track talks with 
-[GitHub issues](https://github.com/brisphp/meetups) where you can create an issue to propose your talk and we liase
+[GitHub issues](https://github.com/brisphp/meetups/issues) where you can create an issue to propose your talk and we liase
 with you on dates and sharing your resources afterwards (where possible).
 
 ## About the Meetup
@@ -76,4 +76,4 @@ NPS score of 86. Anecdotally, there is a comparatively very high return return r
 ## Next steps
 
 We hope this provides you with enough context to work out what you want to talk about at BrisPHP. The next step is
-to create an [issue on GitHub](https://github.com/brisphp/meetups) for your awesome talk!
+to create an [issue on GitHub](https://github.com/brisphp/meetups/issues) for your awesome talk!
