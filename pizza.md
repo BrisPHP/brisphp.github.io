@@ -1,6 +1,6 @@
 ---
 title: My amazing post
-redirect_to: https://docs.google.com/forms/d/e/1FAIpQLSfnu-Fki1DQDuf7IIVt83gJ1eAcu4c37IQu9QiFBzhJ_7vKHQ/viewform?usp=sf_link
+redirect_to: https://docs.google.com/forms/u/0/d/e/1FAIpQLSdMYpeAzUriSWXkK-jJxjbROVBH9Bi4iUnZumpakMklrlVg2A/formResponse
 layout: page
 ---
 
